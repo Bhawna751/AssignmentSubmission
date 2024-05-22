@@ -1,13 +1,13 @@
-package com.project.AppicationSubmission;
+package com.project.AssignmentSubmission;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppicationSubmissionApplication {
+public class AssignmentSubmissionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AppicationSubmissionApplication.class, args);
+		SpringApplication.run(AssignmentSubmissionApplication.class, args);
 	}
 
 }
